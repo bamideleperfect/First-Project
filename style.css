@@ -151,7 +151,7 @@ nav .bi{
 
 .products{
     width: 80%;
-    margin: auto;
+    margin: 100px;
     text-align: center;
     padding-top: 100px;
 }
@@ -201,7 +201,7 @@ h3{
     display: grid;
     width: 100%;
     text-align: center;
-    padding: 20px;
+    padding-top: 20px;
 }
 .grid2{
     display: grid;
@@ -273,4 +273,11 @@ h3{
 }
 .base img{
     width: 1250px;
+}
+.btmlogo{
+    position: left;
+}
+.socialmedia{
+    position: left;
+    margin: 10px 100px;
 }
